@@ -1,0 +1,10 @@
+Output: Electrical Rules Check
+Type  : ERC
+From  : Project [Airsoft PCB.PrjPcb]
+   Generated File[GotEm.html]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:48:01 PM On 6/17/2024
